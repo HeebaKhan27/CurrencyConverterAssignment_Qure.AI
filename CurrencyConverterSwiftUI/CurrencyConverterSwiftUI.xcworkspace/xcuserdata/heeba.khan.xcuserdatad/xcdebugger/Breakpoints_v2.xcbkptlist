@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DC6B745C-5C67-46A6-98A3-4CB73E04165E"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D42EA69-A493-4BFA-B0F8-DB7BB1467EF1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterSwiftUI/SplashView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4D42EA69-A493-4BFA-B0F8-DB7BB1467EF1 - a207330271d680c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterSwiftUI.SplashView.body.getter : some"
+                  moduleName = "CurrencyConverterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heeba.khan/Desktop/CurrencyConverterSwiftUI/CurrencyConverterSwiftUI/SplashView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "4D42EA69-A493-4BFA-B0F8-DB7BB1467EF1 - e5f0d2712a8075e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, CurrencyConverterSwiftUI.CurrencyView&gt; in CurrencyConverterSwiftUI.ContentView.body.getter : some"
+                  moduleName = "CurrencyConverterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heeba.khan/Desktop/CurrencyConverterSwiftUI/CurrencyConverterSwiftUI/SplashView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "4D42EA69-A493-4BFA-B0F8-DB7BB1467EF1 - 9345ab5c2f221c6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.NavigationLink&lt;&lt;&lt;opaque return type of SwiftUI.View.onTapGesture(count: Swift.Int, perform: () -&gt; ()) -&gt; some&gt;&gt;.0, CurrencyConverterSwiftUI.CurrencyView&gt; in CurrencyConverterSwiftUI.ContentView.body.getter : some"
+                  moduleName = "CurrencyConverterSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/heeba.khan/Desktop/CurrencyConverterSwiftUI/CurrencyConverterSwiftUI/SplashView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
